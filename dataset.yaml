@@ -1,0 +1,7 @@
+path: //Users/yash/Library/artikate/Artikate_Assignment/scripts
+train: images/train
+val: images/val
+nc: 2
+names:
+- switch
+- socket
